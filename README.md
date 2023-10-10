@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **I'm a Foodie**
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
