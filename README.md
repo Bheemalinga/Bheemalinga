@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 
-- 🌱 I’m currently learning **MERN stack development**
+- 🌱 I’m currently enhancing my expertise in **MERN stack development**
 
 - 📫 How to reach me **kummarabheema@gmail.com**
 
